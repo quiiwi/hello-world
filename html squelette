@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 
-<html lang=”fr”>
+<html lang="fr">
     
 
 
 <head> <!-- la tête de la page -->
 
-    <meta name=”viewport” content=”width=device-width,initial-scale=1.0”> <!--adapte la résolution pour les différents écrans .-->
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"> <!--adapte la résolution pour les différents écrans .-->
 
-        <meta http-equiv=”X-UA-Compatible” content=”ie-edge”> <!--pour les erreurs sous IE/Edge -->
+        <meta http-equiv="X-UA-Compatible" content="ie-edge"> <!--pour les erreurs sous IE/Edge -->
 
         <meta charset=UTF-8> <!--permet au navigateur de lire les é.è.à.ç… -->
 
@@ -17,8 +17,8 @@
 
 <body> <!-- le corps de la page (tous ce qui est visible -->
 
-    <a id=”haut_de_page”></a> <!--une ancre en haut de page, ancre nommée avec son ID-->
-    <a href=”#bas_de_page” title=”Le bas de la page”>Clique ici</a> <!--lien hypertext vers l’ancre -->
+    <a id="haut_de_page"></a> <!--une ancre en haut de page, ancre nommée avec son ID-->
+    <a href="#bas_de_page" title="Le bas de la page">Clique ici</a> <!--lien hypertext vers l’ancre -->
 
 <h1>Titre de la page</h1>
 <p> <em> paragraphe en italique </em> </p>
@@ -70,13 +70,13 @@ Une citation courte
 C’est avec les centimes qu’on construit des millions.
 </blockquote>
 
-<img src=”...répértoire de l’image…” alt=”…commentaire…”> <!-- c’est pour rajouter des photos -->
+<img src="...répértoire de l’image…” alt=”…commentaire…"> <!-- c’est pour rajouter des photos -->
 
 <br> <!--retour à la ligne-->
-<a id=”bas_de_page”></a>
-<a href=”haut_de_page” title=”Le haut de la Page”>Clique ici</a>
+<a id="bas_de_page"></a>
+<a href="haut_de_page" title="Le haut de la Page">Clique ici</a>
 
-<a href=”http://google.fr” title=”liens vers google target=”_blank””>liens vers google</a> <!-- liens hypertext vers google.fr-->
+<a href="http://google.fr" title="liens vers google target="_blank">liens vers google</a> <!-- liens hypertext vers google.fr-->
 
 </body>
 
