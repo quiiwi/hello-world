@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html lang=”fr”>
+    
+
+
+<head> <!-- la tête de la page -->
+
+    <meta name=”viewport” content=”width=device-width,initial-scale=1.0”> <!--adapte la résolution pour les différents écrans .-->
+
+        <meta http-equiv=”X-UA-Compatible” content=”ie-edge”> <!--pour les erreurs sous IE/Edge -->
+
+        <meta charset=UTF-8> <!--permet au navigateur de lire les é.è.à.ç… -->
+
+<title>Titre de la page</title> 
+</head>
+
+<body> <!-- le corps de la page (tous ce qui est visible -->
+
+    <a id=”haut_de_page”></a> <!--une ancre en haut de page, ancre nommée avec son ID-->
+    <a href=”#bas_de_page” title=”Le bas de la page”>Clique ici</a> <!--lien hypertext vers l’ancre -->
+
+<h1>Titre de la page</h1>
+<p> <em> paragraphe en italique </em> </p>
+
+<hr> <!--ligne horizontale -->
+
+<h2>Second titre de la page</h2>
+<p> <strong> paragraphe en gras </strong> </p>
+
+<hr> <!--ligne horizontale -->
+
+<h3>Troisième titre de la page</h3>
+<p> paragraphe </p>
+
+<hr> <!--ligne horizontale -->
+
+<h4>quatrième titre de la page</h4>
+<p> paragraphe </p>
+
+<hr> <!--ligne horizontale -->
+
+<h5>cinquième titre de la page</h5>
+<p> paragraphe </p>
+
+<hr> <!--ligne horizontale -->
+
+<h6>sixième titre de la page</h6>
+<p> paragraphe </p>
+
+<hr> <!--ligne horizontale -->
+
+<ul> <!-- Unordered list. Liste non-ordonnée-->
+    <li>Dormir</li> <!--List item. Élément de la liste -->
+    <li> Manger </li>
+    <li>Boir</li>
+</ul>
+
+<ol> <!-- ordered list. List Ordonnée-->
+    <li>Dormir</li> <!--List item. Élément de la liste -->
+    <li>Manger</li>
+    <li>Boir</li>
+</ol>
+
+<q>
+Une citation courte
+</q>
+
+<blockquote> <!-- une longue citation -->
+C’est avec les centimes qu’on construit des millions.
+</blockquote>
+
+<img src=”...répértoire de l’image…” alt=”…commentaire…”> <!-- c’est pour rajouter des photos -->
+
+<br> <!--retour à la ligne-->
+<a id=”bas_de_page”></a>
+<a href=”haut_de_page” title=”Le haut de la Page”>Clique ici</a>
+
+<a href=”http://google.fr” title=”liens vers google target=”_blank””>liens vers google</a> <!-- liens hypertext vers google.fr-->
+
+</body>
+
+</html>
+
+
+
+
+
+
+
