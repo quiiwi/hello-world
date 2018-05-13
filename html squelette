@@ -74,7 +74,7 @@
     <a id="bas_de_page"></a>
     <a href="haut_de_page" title="Le haut de la Page">Clique ici</a>
 
-    <a href="http://google.fr" title="liens vers google target="_blank">liens vers google</a> <!-- liens hypertext vers google.fr-->
+    <a href="http://google.fr" title="Info Bull" target="_blank">liens clickable vers google</a> <!-- liens hypertext vers google.fr-->
 
 </body>
 </html>
