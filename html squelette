@@ -61,10 +61,10 @@
     </ol>
 
     <q>
-    Une citation courte
+    Une citation
     </q>
 
-    <blockquote> <!-- une longue citation -->
+    <blockquote> <!-- Ajoute une marge/début de paragraphe -->
     C’est avec les centimes qu’on construit des millions.
     </blockquote>
 
